@@ -1,1 +1,3 @@
-# [Книга](https://www.chitai-gorod.ru/catalog/book/2838562/)
+в данном репрозитарии я буду выкладывать своё решение задач из книги ["Python.Сборник упражнений.Введение в язык Python с задачами и решениями"](https://www.chitai-gorod.ru/catalog/book/2838562/)
+
+
